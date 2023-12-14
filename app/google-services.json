@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186099412057",
+    "project_id": "capstone-project-407109",
+    "storage_bucket": "capstone-project-407109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186099412057:android:2b742898f48e2431909548",
+        "android_client_info": {
+          "package_name": "com.capstone.PhotoExam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0MRM2acbWUHqcsPx_Lon9o0lGQKoEpbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
